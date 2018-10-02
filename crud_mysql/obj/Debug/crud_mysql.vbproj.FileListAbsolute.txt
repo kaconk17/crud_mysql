@@ -1,0 +1,18 @@
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\bin\Debug\crud_mysql.exe.config
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\bin\Debug\crud_mysql.exe
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\bin\Debug\crud_mysql.pdb
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\bin\Debug\crud_mysql.xml
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\bin\Debug\MySql.Data.dll
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\bin\Debug\Google.Protobuf.dll
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\bin\Debug\MySql.Data.xml
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\obj\Debug\crud_mysql.vbprojResolveAssemblyReference.cache
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\obj\Debug\crud_mysql.Form1.resources
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\obj\Debug\crud_mysql.Resources.resources
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\obj\Debug\crud_mysql.vbproj.GenerateResource.Cache
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\obj\Debug\crud_mysql.exe
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\obj\Debug\crud_mysql.xml
+c:\users\kaconk\documents\visual studio 2015\Projects\crud_mysql\crud_mysql\obj\Debug\crud_mysql.pdb
+D:\Project\vb.net\crud_mysql\crud_mysql\bin\Debug\crud_mysql.exe.config
+D:\Project\vb.net\crud_mysql\crud_mysql\obj\Debug\crud_mysql.exe
+D:\Project\vb.net\crud_mysql\crud_mysql\obj\Debug\crud_mysql.xml
+D:\Project\vb.net\crud_mysql\crud_mysql\obj\Debug\crud_mysql.pdb
